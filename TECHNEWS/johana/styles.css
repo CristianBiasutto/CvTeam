@@ -1,0 +1,12 @@
+*{
+    /*El espaciado interno y externo ocuparan un solo espaciado*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 150px;
+    transform: rotate(-90deg);
+    margin: 20px;
+}
